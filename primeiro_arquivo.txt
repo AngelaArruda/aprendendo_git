@@ -1,1 +1,6 @@
 Aprendi a importância de utilizar o GIT principalmente em trabalho em grupo 
+git add -A adiciona todos os arquivos da pasta ao repositório
+git log mostra as alterações realizadas
+git status mostra quem fez e o que foi alterado 
+git pull atualiza o reposit+orio local com a versão mais atual
+git push envia os arquivos para nuvem
